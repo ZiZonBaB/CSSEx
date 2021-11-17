@@ -29,7 +29,7 @@
 					<tbody>
 						<tr>
 							<td bgcolor="#D3E4CD"><span class="s-text01">J</span><span class="s-text02">AVA</span></td>
-							<td rowspan="6" bgcolor="#ADC2A9" align="center"><img src="${pageContext.request.contextPath }/resources/img/img.png" width="600" height="600"></td>
+							<td rowspan="6" bgcolor="#ADC2A9" align="center" height="500"><img src="${pageContext.request.contextPath }/resources/img/img.png" width="500" height="460"></td>
 						</tr>
 
 						<tr>

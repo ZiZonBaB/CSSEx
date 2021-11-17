@@ -1,0 +1,29 @@
+@charset "EUC-KR";
+
+span.title01 {
+	font-size: 60px;
+	color: #000040;
+	font-family: Arial;
+	font-weight: normal;
+}
+
+span.title02 {
+	font-size: 20px;
+	color: #2C272E;
+	font-family: Arial;
+	font-weight: normal;
+}
+
+span.s-text01 {
+	font-size: 60px;
+	color: #99A799;
+	font-family: Arial;
+	font-weight: normal;
+}
+
+span.s-text02 {
+	font-size: 40px;
+	color: #FEF5ED;
+	font-family: Arial;
+	font-weight: normal;
+}
